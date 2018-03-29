@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 29, 2018
 
 ### Student Name:  
-(First and Last Name)
+Nickson Jean Baptiste
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Brief use of javascripting to create a node based photo gallery that cycles through images assigned to div's.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://nj13b.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Add and remove document nodes
+2. Access element content, CSS properties, and attributes
+3. Use the History, Location, Navigation, and Screen objects to manipulate the browser window
